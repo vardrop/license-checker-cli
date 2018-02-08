@@ -1,0 +1,23 @@
+{
+  "name": "license-checker-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "license-checker-cli": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "license",
+    "crawl",
+    "wrapper"
+  ],
+  "author": "vardrop",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "license-checker": "^16.0.0"
+  }
+}
