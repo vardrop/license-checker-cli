@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var checker = require('license-checker');
-var Table = require('cli-table2');
+var Table = require('cli-table3');
 
 // instantiate
 var table = new Table({

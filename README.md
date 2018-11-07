@@ -30,4 +30,4 @@ MIT                 https://github.com/sindresorhus/ansi-styles                 
 ## Built With
 
 * [davglass/license-checker](https://github.com/davglass/license-checker) the original license-checker
-* [jamestalmage/cli-table2](https://github.com/jamestalmage/cli-table2) cli tables for better output
+* [cli-table/cli-table3](https://github.com/cli-table/cli-table3) cli tables for better output
