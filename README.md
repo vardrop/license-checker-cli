@@ -12,7 +12,7 @@ This is how we roll:
 
 ### Installing
 
-`$ npm i [-g|-D] license-checker-cli` do not use `-g` if not necessary
+`$ npm i [-g|-D] license-checker-cli`
 
 ## Usage
 
